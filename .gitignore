@@ -1,2 +1,4 @@
 .env
 /.credentials
+/embeddings
+document_hashes.json
